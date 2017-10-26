@@ -1,1 +1,2 @@
 ci riproviamo
+modifica senza add solo con commit.Non si può fare
